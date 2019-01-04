@@ -1,0 +1,4 @@
+#Mon Dec 24 15:52:37 IST 2018
+base.0=C\:\\Users\\sumit\\Downloads\\BasicExample\\Olympics\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
